@@ -27,8 +27,7 @@ public class Calculator {
      * @param numTwo The number being used for subtraction
      * @return The result of numTwo subtracted from numOne
      */
-    public static double subtract(double numOne, double numTwo) {return numOne - numTwo;
-    }
+    public static double subtract(double numOne, double numTwo) {return numOne - numTwo; }
 
     /**
      * TODO FOR HOMEWORK: The below program has a BUG! Find the bug and fix it. HINT: Read the comments
@@ -38,8 +37,7 @@ public class Calculator {
      * @param numTwo The second number being multiplied
      * @return The product of two numbers
      */
-    public static double multiply(double numOne, double numTwo) {return numOne * numTwo;
-    }
+    public static double multiply(double numOne, double numTwo) {return numOne * numTwo; }
 
     /**
      * The main method of the Calculator class
